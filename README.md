@@ -14,8 +14,22 @@ justlearn
 1. Explaining the working of project
 2. Embed video of project demo
 ## Libraries used
-Library Name - Version
+1. React - 18.2.0
+2. Django - 4.0
 ## How to configure
 Instructions for setting up project
 ## How to Run
-Instructions for running
+### To Run Frontend
+1. Install React v18.2.0
+2. Clone the repo
+3.  ``` git clone https://github.com/george-ct52/Contactify ```
+4. In the project directory, you can run:
+`npm start`
+### To Run Backend
+1. Clone the repo by using
+ ``` git clone https://github.com/george-ct52/Contactify_bk ```
+2. In The project directory
+3. Open Terminal
+4. Run ```pip install -r requirements.txt```
+5. Run ```python manage.py runserver ``` 
+
